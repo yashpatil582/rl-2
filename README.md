@@ -1,6 +1,12 @@
 # project-6-rl
 Trimmed down reinforcement project, and added Deep Q learning Pacman
 
+# Problem Statement
+![PS_1](https://github.com/user-attachments/assets/e78a37e5-bf36-4443-a923-c3971c8b650f)
+![PS_2](https://github.com/user-attachments/assets/f652f98c-9b63-484e-8ec3-70ac9ee8baeb)
+![PS_3](https://github.com/user-attachments/assets/dc7d7917-6251-43fd-8359-72fb8019f537)
+
+# Solution Explanation
 ![AI Group Homework 3-1 Page 1](https://github.com/user-attachments/assets/e6d88d16-3818-40b4-9aa5-b364f9361ace)
 ![page 2](https://github.com/user-attachments/assets/6bef0d1e-f5d0-4558-8307-76e113490fd2)
 ![3](https://github.com/user-attachments/assets/449acba7-a60d-45a4-a207-04936c63fae4)
